@@ -1,0 +1,23 @@
+{
+  "name": "js-2-hw-02_3",
+  "version": "1.0.0",
+  "description": "task 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server --entry-file=index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LagutaNV2/js-2-HW-02_imp-exp-2.git"
+  },
+  "author": "Natalija La Gu Ta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LagutaNV2/js-2-HW-02_imp-exp-2/issues"
+  },
+  "homepage": "https://github.com/LagutaNV2/js-2-HW-02_imp-exp-2#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
